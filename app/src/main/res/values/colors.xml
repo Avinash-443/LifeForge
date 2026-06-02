@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lf_background">#FF000000</color>
+    <color name="lf_card">#FF171717</color>
+    <color name="lf_primary">#FFE83D72</color>
+</resources>
